@@ -162,3 +162,189 @@ footer {
     padding: 15px 30px;
     margin-top: 200px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <length> value */
+#content {
+    max-width: 3.5em;
+}
+.center {
+    text-align: center;
+  }
+  body {
+    background-color: lightblue;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  h1 {
+    color: navy;
+    margin-left: 20px;
+    text-align: center;
+  }
+
+  p {
+    border: 2px solid powderblue;
+    margin: 50px;
+    text-align: center;
+  }
+
+#content {
+max-width: 1600px;
+margin: 0 auto;
+}
+
+#background {
+    height: 725px;
+}
+
+div { background-color: #FFFFFF; }
+.icon {
+    width: 80px;
+}
+
+
+body {
+    text-align: center;
+    background-color: #fcfbfb; 
+}
+header {
+    text-align: center;
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    text-align: center;
+    background-color: black;
+}
+
+.book, .join {
+    text-align: center;
+    background-color: black;
+}
+
+.book:hover, .join:hover {
+    text-align: center;
+    background-color: black;
+}
+#background {
+    text-align: center;
+    background-color: black;
+}
+.msg {
+    text-align: center;
+    background-color: black;
+}
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+nav a {
+    text-align: center;
+    background-color: black;
+}
+nav a:hover {
+    text-align: center;
+    background-color: black;
+    color: #d9c2a3;
+}    
+.home-title {
+    text-align: center;
+    background-color: black;
+}
+h4 {
+    text-align: center;
+    background-color: black;
+}
+.book, .join {
+    text-align: center;
+    background-color: black;
+}
+.book:hover, .join:hover {
+    text-align: center;
+    background-color: black;
+}
+.msg h2 {
+    text-align: center;
+    background-color: black;
+}
+.msg p {
+    text-align: center;
+    background-color: black;
+}
+footer {
+    text-align: center;
+    background-color: black;
+}
+footer a {
+    text-align: center;
+    background-color: black;
+}
+footer a:hover {
+    text-align: center;
+    background-color: black;
+} 
+.icon {
+    width: 80px;
+}
+
+
+
+
+
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+.book {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+.join {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+footer a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+footer p {
+    text-align: center;
+    font-size: 1.2em;
+}    
+footer p {
+    text-align: center;
+    text-decoration: none;
+}   
+.icon {
+    width: 80px;
+} 
+a:hover {
+    text-align: center;
+    text-decoration: none;
+}    
+.icon {
+    width: 80px;
+}
